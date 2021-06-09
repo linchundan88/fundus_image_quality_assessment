@@ -1,0 +1,10 @@
+ #full path
+good
+bash /home/jsiec/Retinal-Image-Quality-Assessment/AssessImage.sh /home/jsiec/Retinal-Image-Quality-Assessment/SampleImages/20275_left.jpeg 
+
+
+
+
+bad
+bash /home/jsiec/Retinal-Image-Quality-Assessment/AssessImage.sh /home/jsiec/Retinal-Image-Quality-Assessment/SampleImages/IMG_00923.jpg
+
